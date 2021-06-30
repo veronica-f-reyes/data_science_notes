@@ -1,2 +1,3 @@
-# data_science_notes
-Folder to keep notes from my data science class
+# Repository for notes from my data science class
+
+-Git Refresher - Overview of Git for Using GitHub
